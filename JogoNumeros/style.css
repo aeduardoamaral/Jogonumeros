@@ -1,0 +1,44 @@
+#div { 
+    text-align: center;
+    background: rgb(49, 226, 43);
+    width: 10px;
+    border-radius: 0px; 
+    max-width: 1000vw;
+    width:1266px;
+    font-style:italic;
+    font-family: fantasy;
+    font-size: 2cm;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+#bg { 
+    text-align: center;
+    background: blueviolet;
+    padding-top: 0%;
+}
+
+#bt { 
+    text-align: center;
+    background: rgb(231, 125, 38);
+    width: 100px;
+    border-radius: 10px; 
+    max-width: 100vw;
+    width:800px;
+    font-style:italic;
+    font-family: fantasy;
+    font-size: 1cm;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+#bi { 
+    text-align: center;
+    background: blueviolet;
+    padding-top: 10%;
+
+}    
