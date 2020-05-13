@@ -9,7 +9,7 @@
     </head>
     <body id="bg">
         <h1 id="div">
-            DESCUBRA O NÚMERO SE VOCÊ É FÉRA!!!
+            DESCUBRA O NÚMERO SE VOCÊ É FERA!!!
         </h1>
             
             <br/>

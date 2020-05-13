@@ -13,15 +13,16 @@
     <body id="bi">
 
 
-        <img src="imag\frouxo.jpg" height=300px>
+        <img src="imag\winner.jpg" height=300px>
 
         <form method="post" action="form.php">
-                    <input id="bt" type="submit" value="Volta logo seu Frouxo"/>
+                    <input id="bt" type="submit" value="Jogar de novo CAMPEÃO?"/>
                 </form>        
     </body>
 
 
-
-
-
 </html>
+<?php
+    include "dellchute.php";
+
+?>
